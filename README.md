@@ -13,7 +13,19 @@ kt NexR은 빅데이터와 관련된 모든 것을 다루는 회사입니다. 10
 - UI/UX 디자인
 - 오픈소스 연구 조사
   - 솔루션 개발과 관련된 모든 오픈소스
+  
+### kt NexR 연구소 문화 엿보기
+- 더 팀스: <https://www.theteams.kr/teams/2805>
+- 월간 리너 매거진: <https://brunch.co.kr/magazine/ktnexr>
 
+# kt NexR 복지
+[kt NexR 복지 확인 하기](./docs/welfare/README.md)
+
+### kt NexR 관련 홍보 자료
+- 린스트림을 이용한 커스텀 대시보드 예제:  <https://youtu.be/nWzplzzKuaI>
+- MSTR korea 발표 현장: <https://youtu.be/D8ajxM09Afw>
+- Lean Stream 공식 홍보 동영상: <https://youtu.be/Krpni4Izj68>
+- YTNSCIENCE 4차산업혁명 사물인터넷 세상에 살다 인터뷰 영상: <https://youtu.be/CdHsnCJLOx0> 
 
 ### 채용 분야
 

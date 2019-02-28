@@ -2,6 +2,10 @@
 
 Javascript로 세상을 지배하면서 html과 css 체계를 이해하고 사용하는 사람의 영역입니다.  웹 UI를 통해 고객에게 빅데이터 솔루션의 사용 가치를 높여주는 매우 중요한 역할입니다.
 
+## 채용 인원
+- 주니어(신입 ~ 6년): 0 명
+- 시니어(순수 frontend 6년+): 0 명
+
 ## Role
 - UI Framework(자체 template) 제작
 - 자사 솔루션 Front-end 개발
@@ -18,12 +22,7 @@ Javascript로 세상을 지배하면서 html과 css 체계를 이해하고 사�
 - D3.js, WebGL과 같은 rendering Framework에 대한 이해와 경험
 
 # 전형절차
-1. 서류전형
-2. 기술면접
-  - 지원자의 소스코드가 포함된 github 주소가 필요합니다.
-3. 임원면접
-4. 처우협의
-5. 입사
+![Job Process](../../../images/job_process.png "Job Process")
 
 # 입사 지원서
 [입사지원서 다운로드](../../../files/kt_nexr_resume.docx)
