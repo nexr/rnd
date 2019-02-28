@@ -14,6 +14,12 @@ kt NexR은 빅데이터와 관련된 모든 것을 다루는 회사입니다. 10
 - 오픈소스 연구 조사
   - 솔루션 개발과 관련된 모든 오픈소스
   
+### Creator’s Playground STATEMENT
+kt NexR 연구소가 가진 인재상이자 반드시 지켜야 할 연구소만의 약속입니다! 함께 일할 팀에서는 어떤 가치를 중요시 하는지 살펴볼 수 있습니다.
+
+[자세히 보러가기](./docs/statement/README.md)
+
+  
 ### kt NexR 연구소 문화 엿보기
 - 더 팀스: <https://www.theteams.kr/teams/2805>
 - 월간 리너 매거진: <https://brunch.co.kr/magazine/ktnexr>
@@ -28,6 +34,8 @@ kt NexR은 빅데이터와 관련된 모든 것을 다루는 회사입니다. 10
 - YTNSCIENCE 4차산업혁명 사물인터넷 세상에 살다 인터뷰 영상: <https://youtu.be/CdHsnCJLOx0> 
 
 ### 채용 분야
+
+![Recruiting banner](./images/jd_banner.jpg "Recruiting banner")
 
 #### 백엔드 엔지니어
 Java로 세상을 지배하고 싶은 사람의 영역입니다. 자사 솔루션 백엔드 개발에서 부터 빅데이터 오픈소스 Tracking까지 비교적 넓은 영역을 담당합니다. 
