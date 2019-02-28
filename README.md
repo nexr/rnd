@@ -2,7 +2,7 @@
 
 kt NexR은 빅데이터와 관련된 모든 것을 다루는 회사입니다. 10년 이상 축적된 경험 및 빅데이터 전문기술을 바탕으로 빅데이터 시스템 구성부터 통합까지 엔터프라이즈 환경에 최적화된 올인원(All-In-One) 서비스를 제공하는 기업입니다.  kt NexR은 빅데이터 처리 플랫폼 뿐만 아니라, 분석/운용/설치/기술지원 등에 필요한 전문인력을 보유하고 있으며 이를 바탕으로 기업 환경에서 효과적으로 데이터를 활용할 수 있도록 최상의 해답을 제공하기 위해 노력하고 있습니다.
 
-### R&D 연구소
+### R&D 센터
 
 안녕하세요. kt NexR의 빅데이터 솔루션 개발을 총괄하고 있는 diesel입니다. kt NexR은 지난 10년동안 빅데이터 배치 처리 솔루션인 NDAP과 실시간/AI 솔루션인 Lean Stream을 개발하며 대한민국의 빅데이터 시장을 이끌어 왔습니다. kt NexR은 2019년을 또 하나의 원년으로 삼고 빅데이터 도메인 기술이 집약된 솔루션을 만들기 위해 Constantine Project를 진행하고 있습니다. 이에 서로 도우며 성장하고 자신의 역량과 가능성을 펼치고 싶어하는 창작자 여러분을 모집하고 있습니다. 여러분은 강력한 멘탈 케어 환경에서 자유와 책임감으로 무장하고 일해 본 경험이 있으신가요? kt NexR의 R&D 센터에서 한번 경험해보시면 어떨까요?
 
@@ -15,26 +15,32 @@ kt NexR은 빅데이터와 관련된 모든 것을 다루는 회사입니다. 10
   - 솔루션 개발과 관련된 모든 오픈소스
   
 ## Creator’s Playground STATEMENT
-kt NexR 연구소가 가진 인재상이자 반드시 지켜야 할 연구소만의 약속입니다! 함께 일할 팀에서는 어떤 가치를 중요시 하는지 살펴볼 수 있습니다.
+kt NexR R&D 센터가 가진 인재상이자 반드시 지켜야 할 우리들의 약속입니다! 함께 일할 팀에서는 어떤 가치를 중요시 하는지 살펴볼 수 있습니다.
 
 [자세히 보러가기](./docs/statement/README.md)
 
   
-## kt NexR 연구소 문화 엿보기
+## kt NexR R&D 센터 문화 엿보기
 - 더 팀스: <https://www.theteams.kr/teams/2805>
 - 월간 리너 매거진: <https://brunch.co.kr/magazine/ktnexr>
 
 ## kt NexR 복지
+kt NexR에 입사하시면 다음과 같은 복지를 누릴 수 있습니다. 자세한 내용은 링크를 확인해 주세요.
+
 [kt NexR 복지 확인 하기](./docs/welfare/README.md)
 
 ## kt NexR 관련 홍보 자료
 - 린스트림을 이용한 커스텀 대시보드 예제:  <https://youtu.be/nWzplzzKuaI>
 - MSTR korea 발표 현장: <https://youtu.be/D8ajxM09Afw>
 - Lean Stream 공식 홍보 동영상: <https://youtu.be/Krpni4Izj68>
-- YTNSCIENCE 4차산업혁명 사물인터넷 세상에 살다 인터뷰 영상: <https://youtu.be/CdHsnCJLOx0> 
+- YTNSCIENCE 4차산업혁명 사물인터넷 세상에 살다 인터뷰 영상: <https://youtu.be/CdHsnCJLOx0>
+
+## kt NexR R&D 센터 저술 활동
+- 스파크 완벽 가이드(<https://bit.ly/2IFZerC>)
+- 엔터프라이즈 데이터 레이크 구축(<https://bit.ly/2NwHmy8>)
+- 하이브 완벽 가이드(<http://bit.ly/2EgCUzs>)
 
 ## 채용 분야
-
 ![Recruiting banner](./images/jd_banner.jpg "Recruiting banner")
 
 ### 백엔드 엔지니어
